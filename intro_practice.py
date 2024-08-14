@@ -36,8 +36,8 @@ def bmi_categorization_tool(weight, height):
     This Function categorizes BMI based on weight and height.
 
     Parameters Defined:
-    Weight: In pounds 
-    Height: In inches
+    Weight: in pounds
+    Height: in inches
     
     Returns:
     str: The BMI category.
